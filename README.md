@@ -115,7 +115,7 @@ My strongest operating model is:
 
 - GitHub: https://github.com/xxxalf
 - Email: jast3618@gmail.com
--WhatsApp: +49 1512 3551716
+- WhatsApp: https://wa.me/4915123551716
 - Discord: @x.01.001k
 - Remote across global time zones
 - Relocation within 1–2 days
