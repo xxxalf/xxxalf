@@ -100,7 +100,7 @@ Public materials are Level 0 black-box evidence. Redacted technical evidence is 
 
 ## How I work
 
-I combine three years of hands-on production engineering with an earlier 12-year foundation in B2B sales, commercial development, product management and project leadership. Since 2019, I have also provided selective private SME consulting on process improvement, sales effectiveness, organizational structure and implementation.
+I combine more than two years of hands-on production engineering with an earlier 12-year foundation in B2B sales, commercial development, product management and project leadership. Since 2019, I have also provided selective private SME consulting on process improvement, sales effectiveness, organizational structure and implementation.
 
 My formal education includes a Specialist Diploma in Radio Engineering; a master’s degree in cybersecurity, cryptography and network/communications analysis; a specialist qualification in SME management; and a master’s degree in accounting/audit, finance and banking. I also completed MBA-level executive education and professional coursework in Ukraine during 2015–2018 (non-degree).
 
@@ -115,7 +115,7 @@ My strongest operating model is:
 
 - GitHub: https://github.com/xxxalf
 - Email: jast3618@gmail.com
-- WhatsApp: https://wa.me/4915123551716
+-WhatsApp: https://wa.me/4915123551716
 - Discord: @x.01.001k
 - Remote across global time zones
 - Relocation within 1–2 days
