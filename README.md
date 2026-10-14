@@ -9,7 +9,7 @@ I design, build and operate AI-assisted systems where explicit controls, observa
 - Hands-on programming across C, C#, Python, VBA and PHP, plus web/API integration, since 2008
 - Linux/Bash scripting and administration foundation since 2010
 - Algorithmic-trading domain work, Google Sheets API and Pine Script since 2016
-- HaasScript development and project-based private-user work since 2022
+- Trading-platform script development and project-based private-user work since 2022
 - Hands-on production engineering in AI/TradeOps systems since 2023
 
 The earlier dates describe technical and practitioner foundations. I do not represent them as continuous production-software employment.
@@ -33,16 +33,16 @@ The earlier dates describe technical and practitioner foundations. I do not repr
 
 ## Selected production case
 
-Since 2023, I have designed, implemented and operated a confidential external AI/TradeOps control and operations layer. HaasOnline TradeServer served as the third-party execution core and the first proven connector through an MCP-based integration boundary, validated in laboratory and production environments.
+Since 2023, I have designed, implemented and operated a confidential external AI/TradeOps control and operations layer. A third-party trading platform served as the execution core and the first proven connector through an MCP-based integration boundary, validated in laboratory and production environments.
 
 The production context includes:
 
 - approximately 60 dedicated servers and cloud instances across Hetzner, Google Cloud, OneProvider, Vultr, DigitalOcean and Contabo;
 - Proxmox where applicable, Linux and containerized services;
-- HaasOnline TradeServer as the third-party execution core and first proven connector;
+- a third-party trading platform as the execution core and first proven connector;
 - an MCP-based integration boundary validated in lab and production;
 - an evidence base spanning 11,900+ tested bot configurations/candidates and 589 selected candidates across documented reporting periods;
-- modular algorithmic trading systems in HaasScript/Lua;
+- modular algorithmic trading systems using platform scripts and Lua;
 - probability, statistics and time-series analysis;
 - backtest-bias controls, slippage and market-impact assumptions;
 - event-driven simulation and deterministic replay;
@@ -58,12 +58,12 @@ The public case is intentionally black-boxed. It proves production scope, owners
 
 The scale figures describe documented research and operating volume. Historical return figures are deliberately excluded from this public profile.
 
-## Independent HaasScript client work
+## Independent trading-systems client work
 
-Since 2022, I have also worked project-by-project with private Haas users to:
+Since 2022, I have also worked project-by-project with private trading-platform users to:
 
 - turn an incomplete trading idea into explicit requirements and acceptance criteria;
-- develop, transfer, review or modularize HaasScript systems;
+- develop, transfer, review or modularize trading-platform scripts;
 - separate strategy, execution, risk and portfolio concerns;
 - define historical, test/SIM/paper and controlled-operation paths;
 - troubleshoot scripts, configuration and operating behavior;
@@ -90,7 +90,7 @@ Additional execution engines can be integrated subject to supported APIs or prot
 
 ## Technology
 
-`Python` · `pandas` · `Polars` · `Probability` · `Statistics` · `Time Series` · `Backtesting` · `Event-Driven Simulation` · `Deterministic Replay` · `HaasScript/Lua` · `C` · `C#` · `Bash` · `Pine Script` · `Google Sheets API` · `AI/LLM` · `HaasOnline TradeServer` · `Linux Internals` · `Concurrency` · `CPU/Cache` · `Networking` · `Proxmox` · `Docker` · `Google Cloud` · `Multi-Cloud Infrastructure` · `Telemetry` · `Reliability`
+`Python` · `pandas` · `Polars` · `Probability` · `Statistics` · `Time Series` · `Backtesting` · `Event-Driven Simulation` · `Deterministic Replay` · `Platform Scripting/Lua` · `C` · `C#` · `Bash` · `Pine Script` · `Google Sheets API` · `AI/LLM` · `Trading Platforms` · `Linux Internals` · `Concurrency` · `CPU/Cache` · `Networking` · `Proxmox` · `Docker` · `Google Cloud` · `Multi-Cloud Infrastructure` · `Telemetry` · `Reliability`
 
 ## Positioning boundary
 
