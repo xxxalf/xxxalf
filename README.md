@@ -100,9 +100,9 @@ Public materials are Level 0 black-box evidence. Redacted technical evidence is 
 
 ## How I work
 
-I combine more than two years of hands-on production engineering with an earlier 12-year foundation in B2B sales, commercial development, product management and project leadership. Since 2019, I have also provided selective private SME consulting on process improvement, sales effectiveness, organizational structure and implementation.
+I combine three years of hands-on production engineering with an earlier 15-year foundation in B2B sales, commercial development, product management and project leadership. Since 2019, I have also provided selective private SME consulting on process improvement, sales effectiveness, organizational structure and implementation.
 
-My formal education includes a Specialist Diploma in Radio Engineering; a master’s degree in cybersecurity, cryptography and network/communications analysis; a specialist qualification in SME management; and a master’s degree in accounting/audit, finance and banking. I also completed MBA-level executive education and professional coursework in Ukraine during 2015–2018 (non-degree).
+My formal education includes a Specialist Diploma in Radio Engineering from Odessa State Environmental University; a specialist qualification in SME management; a master’s degree in cybersecurity, cryptography and network/communications analysis; and a master’s degree in accounting/audit, finance and banking. I also completed MBA-level executive education and professional coursework in Ukraine during 2015–2018 (non-degree).
 
 Languages: Russian and Ukrainian native; English working intermediate; German and Spanish basic with written translation support.
 
@@ -118,5 +118,5 @@ My strongest operating model is:
 -WhatsApp: https://wa.me/4915123551716
 - Discord: @x.01.001k
 - Remote across global time zones
-- Relocation within 1–2 days
+- Fully remote roles and contracts; availability agreed explicitly
 
